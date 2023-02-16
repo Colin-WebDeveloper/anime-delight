@@ -1,7 +1,9 @@
 .char_overview{
 	background-color: #FAF0DA;
-	height: 50vh;
+	height: 100vh;
 	padding: 1em;
+
+	display: flex;
 }
 
 h1{
