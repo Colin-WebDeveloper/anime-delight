@@ -1,8 +1,10 @@
 .char_overview{
-	background-color: #DAE1FA;
+	background-color: #FAF0DA;
+	height: 50vh;
+	padding: 1em;
 }
 
 h1{
 	font-size: 30px;
-	color: teal;
+	color: #091553;
 }
