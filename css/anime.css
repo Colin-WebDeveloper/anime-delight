@@ -1,11 +1,23 @@
-.char_overview{
-	background-color: #FAF0DA;
-	height: 100vh;
+.char_overview, .overview-triptych{
+	background-color: #E47F24;
+	/*height: 100vh; */
 	padding: 1em;
 
 	display: flex;
-	justify-content: space-around;
+
+	
+	
 }
+.overview-main img{
+	border-radius: 220px;
+	width: 400px;
+
+
+}
+
+/*.overview-triptych{
+	display: flex;
+} */
 
 h1{
 	font-size: 30px;
